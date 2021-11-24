@@ -160,4 +160,7 @@
   .box---c{
   display: block;
   }
+  .box---a{
+  display: none;
+  }
 }
