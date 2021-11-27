@@ -144,6 +144,7 @@
   background-color: #ff0000;
   grid-row: 1/2;
   grid-column: 1/2;
+  display: block;
 }
 .box---b{
   background-color: #00ff51;
